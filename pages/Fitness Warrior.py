@@ -1,5 +1,6 @@
 import openai 
 import streamlit as st
+from typing import Literal
 import os
 st.set_page_config(page_title="LiveFIT", page_icon=":running:", layout="wide")
 # pip install streamlit-chat  
