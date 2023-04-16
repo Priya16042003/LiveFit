@@ -1,4 +1,4 @@
-Python==3.10.5
+
 requests
 bs4
 streamlit
