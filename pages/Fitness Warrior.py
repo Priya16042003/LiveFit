@@ -6,9 +6,9 @@ st.set_page_config(page_title="LiveFIT", page_icon=":running:", layout="wide")
 # pip install streamlit-chat  
 from streamlit_chat import message
 # openai.api_key=os.environ["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"]
-openai.api_key = os.getenv("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")
+openai.api_key = os.getenv("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")
 
-openai.api_key ="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"
+openai.api_key ="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"
 def generate_response(prompt):
     completions = openai.Completion.create(
         engine = "text-davinci-003",
