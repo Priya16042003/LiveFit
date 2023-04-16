@@ -12,7 +12,7 @@ dum_bell=Image.open("pexels-victor-freitas-791763.jpg")
 ben_press=Image.open("pexels-pixabay-416717.jpg")
 video_file=open("pexels-tima-miroshnichenko-5319759.mp4", 'rb')
 video_bytes=video_file.read()
-with open('C:/Users/pdv50/Downloads/Fruit_Vegetable_Recognition-master/Fruit_Vegetable_Recognition-master/pages/css/style.css') as f:
+with open('./pages/css/style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 with st.container(): 
