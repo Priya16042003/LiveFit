@@ -1,3 +1,4 @@
+Python 3.10.5
 requests
 bs4
 streamlit
@@ -11,7 +12,8 @@ pandas
 openai
 streamlit_chat
 cvzone
-mediapipie
+pip 22.2.2
+mediapipe==0.8.10.1
 os
 opencv-python-headless
 keras~=2.6.0
