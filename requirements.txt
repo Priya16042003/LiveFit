@@ -1,0 +1,15 @@
+requests
+bs4
+streamlit
+numpy
+Pillow
+flask
+bokeh.plotting
+streamlit_option_menu 
+pyrebase
+pandas
+openai
+streamlit_chat
+cv2
+keras~=2.6.0
+tensorflow~=2.6.0

@@ -1,0 +1,69 @@
+h1[id="livefit"]:nth-of-type(1)
+{
+    font-weight: 900;
+    font-size: 400;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #FF8000;
+    /*(border:1px solid #FF8000; */ 
+    text-align: center;
+    text-align: middle;
+    border-radius:15px;
+} 
+h1[id="our-program-provides-these-exercises"]:nth-of-type(1) {
+    text-align: center;
+}
+
+div[class="css-1kyxreq.etr89bj2"]
+{
+    range: center;
+}
+
+h1[id="our-blog-postings"]:nth-of-type(1)
+{
+    color: #FF8000;
+    text-align:center;
+}
+
+div[class="css-hkfrde e1tzin5v0"]:nth-of-type(1) {
+    text-align: center;
+}
+div[class="css-1v0mbdj etr89bj1"]:nth-of-type(1) {
+    text-align: center;
+    color: #00ffff;
+
+}
+
+
+h1[id="dashboard"]:nth-of-type(1) {
+   color: #00ffff;
+   text-align: center;
+}
+
+div[class="css-1xarl3l e16fv1kl1"]:nth-of-type(1) {
+    border: 1px solid #090909;
+    background: #d2d2d2;
+    text-align: center;
+    border-radius:15px;
+    font: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+div[class="css-184tjsw e16nr0p34"]:nth-of-type(1) {
+    text-align: center;
+    font: bold;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3[id="recommended-diet"]:nth-of-type(1) {
+    text-align: center;
+    font: bold;
+    font-weight: 900;
+    font-size: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2[id="recommnded-activity"]:nth-of-type(1) {    
+    font: bold;
+    font-weight: 900;
+    font-size: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
