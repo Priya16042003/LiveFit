@@ -14,7 +14,7 @@ streamlit_chat
 cvzone
 
 mediapipe==0.8.10.1
-os
+
 opencv-python-headless
 keras~=2.6.0
 tensorflow~=2.6.0
