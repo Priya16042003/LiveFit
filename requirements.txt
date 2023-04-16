@@ -12,6 +12,7 @@ openai
 streamlit_chat
 cvzone
 mediapipie
+os
 opencv-python-headless
 keras~=2.6.0
 tensorflow~=2.6.0
