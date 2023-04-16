@@ -12,7 +12,7 @@ pandas
 openai
 streamlit_chat
 cvzone
-pip==22.2.2
+
 mediapipe==0.8.10.1
 os
 opencv-python-headless
