@@ -19,7 +19,7 @@ push_ups =0
 
 while True:
     success, img = cap.read()
-    img = cv2.resize(img, (frameWidth, frameHeight))
+#     img = cv2.resize(img, (frameWidth, frameHeight))
     img = detector.findPose(img,False)
 
     lmlst, bbox = detector.findPosition(img,draw=False)
