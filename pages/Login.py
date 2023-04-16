@@ -64,7 +64,7 @@ if choice == 'Login':
         user = auth.sign_in_with_email_and_password(email,password)
 li_fit=Image.open("LIVEFIT.png")
 pro_tein=Image.open("whey.png")
-with open('C:/Users/pdv50/Downloads/Fruit_Vegetable_Recognition-master/Fruit_Vegetable_Recognition-master/pages/css/style.css') as f:
+with open('./pages/css/style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 with st.container(): 
     left, right=st.columns(2)
