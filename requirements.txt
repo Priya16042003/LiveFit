@@ -10,6 +10,6 @@ pyrebase
 pandas
 openai
 streamlit_chat
-cv2
+opencv-python-headless
 keras~=2.6.0
 tensorflow~=2.6.0
